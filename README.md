@@ -5,7 +5,7 @@ Business Informatics student at the Technical University of Munich (TUM) with a 
 ## About Me
 
 - B.Sc. Business Informatics (Wirtschaftsinformatik), Technical University of Munich  
-- SAP HCM Advice Consultant with experience in enterprise HR systems  
+- SAP HCM Consultant with experience in enterprise HR systems  
 - Head of Legal & Finance at the TUM Blockchain Club  
 - Several years of experience in finance, accounting, and corporate structuring  
 - Background in market research, data analysis, and software engineering  
