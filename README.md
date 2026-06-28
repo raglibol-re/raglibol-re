@@ -21,6 +21,9 @@
   <a href="https://github.com/raglibol-re">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://x.com/Rami15_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
   <img src="https://img.shields.io/badge/Munich,%20Germany-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=raglibol-re&style=for-the-badge&color=4F9DDE&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -173,6 +176,9 @@ This profile contains a mix of:
 </a>
 <a href="https://linkedin.com/in/rami-e-965683215">
   <img src="https://img.shields.io/badge/Rami%20Ezzeddine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Rami15_">
+  <img src="https://img.shields.io/badge/@Rami15__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
 <a href="mailto:rami.ezzeddine@proton.me">
   <img src="https://img.shields.io/badge/rami.ezzeddine@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
