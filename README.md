@@ -68,7 +68,7 @@ Business Informatics student at the **Technical University of Munich (TUM)** foc
     <td width="50%" valign="top">
 
 ### 🥇 EthTwin
-**Winner — ETHPrague 2026** · *contributor (4-person team)*
+**Winner — ETHPrague 2026**
 
 A **voice-first, AI-powered crypto interface** for mainstream users — send assets and interact on-chain through natural language. Each user gets an AI "Twin" persona at `<name>.ethtwin.eth` via **ENS**, with **passkey smart wallets** and **stealth-address** privacy. Built in 48 hours.
 
@@ -195,7 +195,7 @@ A pay-per-second content feed where money flows **both ways**: viewers stream su
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**EthTwin**](https://github.com/danielshx/ethtwin) 🏆 | Voice-first **AI** crypto interface with ENS "Twin" identities, passkey smart wallets &amp; stealth-address privacy · *contributor* | `Next.js` `TypeScript` `viem` `ENS` `AI` |
+| [**EthTwin**](https://github.com/danielshx/ethtwin) 🏆 | Voice-first **AI** crypto interface with ENS "Twin" identities, passkey smart wallets &amp; stealth-address privacy | `Next.js` `TypeScript` `viem` `ENS` `AI` |
 | [**TempoFlow**](https://github.com/raglibol-re/TempoFlow) 🏆 | Pay-per-second streaming payments with bidirectional money flow, settled on-chain | `TypeScript` `Tempo` `React` |
 | [**cross_chain_arbitrage**](https://github.com/Bobrwagen/cross_chain_arbitrage) | Algorithmic **cross-chain arbitrage** trading bot across EVM chains + Flow, with multi-wallet UX &amp; risk controls · *contributor* | `TypeScript` `Wagmi` `Solidity` `Cadence` |
 | [**chorpiler-escrow-settlement**](https://github.com/raglibol-re/chorpiler-escrow-settlement) | Compiles BPMN&nbsp;2.0 choreographies into smart contracts; adds an `EscrowSettlement` contract enabling **token transfers without messages** | `TypeScript` `Solidity` `Hardhat` |
