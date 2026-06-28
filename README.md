@@ -1,92 +1,185 @@
-# Rami Ezzeddine
+<div align="center">
 
-Business Informatics student at the Technical University of Munich (TUM) with a strong focus on blockchain technology, tokenization of real-world assets (RWA), and data-driven software systems. I combine technical implementation with economic reasoning, legal-regulatory awareness, and enterprise IT experience to design systems that are both innovative and practically deployable.
+<!-- Animated typing banner -->
+<a href="https://github.com/raglibol-re">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=4F9DDE&center=true&vCenter=true&width=720&height=60&lines=Rami+Ezzeddine;Business+Informatics+%40+TUM;Blockchain+%26+Real-World-Asset+Tokenization;Smart+Contracts+%C2%B7+DeFi+%C2%B7+Data+Engineering;Bridging+Enterprise+IT+and+Web3" alt="Rami Ezzeddine" />
+</a>
 
-## About Me
+<p>
+  <em>Designing systems that are both innovative and practically deployable —<br/>
+  at the intersection of enterprise software, decentralized technology, and regulation.</em>
+</p>
 
-- B.Sc. Business Informatics (Wirtschaftsinformatik), Technical University of Munich  
-- SAP HCM Consultant with experience in enterprise HR systems  
-- Head of Legal & Finance at the TUM Blockchain Club  
-- Several years of experience in finance, accounting, and corporate structuring  
-- Background in market research, data analysis, and software engineering  
-- Experience in academic research as well as startup and applied project environments  
+<!-- Header badges -->
+<p>
+  <a href="https://linkedin.com/in/rami-e-965683215">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rami.ezzeddine@proton.me">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/raglibol-re">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Munich,%20Germany-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=raglibol-re&style=for-the-badge&color=4F9DDE&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-My interests lie at the intersection of **enterprise software, decentralized technologies, and regulatory frameworks**. I am particularly interested in how modern blockchain-based systems can integrate with established enterprise environments and existing legal and financial infrastructures.
+</div>
 
-## Areas of Interest
+---
 
-- Blockchain & Distributed Ledger Technology  
-- Tokenization of Real-World Assets (real estate, vehicles, securities)
-- Enterprise systems and process digitization (SAP HCM)  
-- Smart contracts and on-chain settlement mechanisms  
-- DeFi, market design, and financial infrastructure  
-- Data engineering, analytics, and ETL pipelines  
-- Legal and regulatory frameworks (MiCAR, eWpG, corporate and non-profit structures)
+## 🧭 About Me
 
-## Technical Skills
+Business Informatics student at the **Technical University of Munich (TUM)** with a strong focus on **blockchain technology**, **tokenization of real-world assets (RWA)**, and **data-driven software systems**. I combine technical implementation with economic reasoning, legal-regulatory awareness, and enterprise IT experience.
 
-**Programming & Data**  
-- Java (backend development, data scraping, ETL pipelines)  
-- Python (data processing, analytics, tooling)  
-- SQL (relational databases, data modeling)  
-- Solidity (Ethereum smart contracts)  
-- R (data analysis, tidyverse, academic work)
+<table>
+  <tr>
+    <td>🎓</td><td>B.Sc. <b>Business Informatics</b> (Wirtschaftsinformatik), TU&nbsp;Munich</td>
+  </tr>
+  <tr>
+    <td>💼</td><td><b>SAP HCM Consultant</b> — enterprise HR systems</td>
+  </tr>
+  <tr>
+    <td>⚖️</td><td><b>Head of Legal &amp; Finance</b> — TUM Blockchain Club</td>
+  </tr>
+  <tr>
+    <td>📊</td><td>Several years in <b>finance, accounting &amp; corporate structuring</b></td>
+  </tr>
+  <tr>
+    <td>🔬</td><td>Background in <b>market research, data analysis &amp; software engineering</b></td>
+  </tr>
+  <tr>
+    <td>🚀</td><td>Experience across <b>academic research, startups &amp; applied projects</b></td>
+  </tr>
+</table>
 
-**Enterprise & Blockchain Systems**  
-- SAP HCM (advice consulting, process analysis, system configuration)  
-- Ethereum and EVM-based systems  
-- Hedera Token Service (HTS)  
-- Smart contract design, deployment, and testing  
-- Token models (fungible tokens, NFTs, hybrid structures)
+> My interests lie at the intersection of **enterprise software, decentralized technologies, and regulatory frameworks** — particularly how modern blockchain-based systems can integrate with established enterprise environments and existing legal & financial infrastructures.
 
-**Tools & Infrastructure**  
-- Git & GitHub (version control, collaboration)  
-- Maven, Remix, Hardhat  
-- Supabase and SQL-based backends  
-- Data collection, transformation, and storage workflows  
+---
 
-**Finance, Law & Research**  
-- Financial modeling and bookkeeping  
-- Corporate structuring (UG, GmbH, non-profits)  
-- Compliance-oriented system design  
-- Academic writing and research (seminar papers, LNCS format)
+## 🛠️ Tech Stack
 
-## Projects
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,py,solidity,postgres,r,git,github,supabase,maven&perline=9" alt="Skill icons" />
+
+</div>
+
+**Programming &amp; Data**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Enterprise &amp; Blockchain Systems**
+
+![SAP HCM](https://img.shields.io/badge/SAP%20HCM-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum%20%2F%20EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hedera](https://img.shields.io/badge/Hedera%20Token%20Service-222222?style=flat-square&logo=hedera&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-F16822?style=flat-square&logo=solidity&logoColor=white)
+![Tokens](https://img.shields.io/badge/Fungible%20%C2%B7%20NFT%20%C2%B7%20Hybrid-8247E5?style=flat-square&logo=opensea&logoColor=white)
+
+**Tools &amp; Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix%20IDE-1C1C1C?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Finance, Law &amp; Research**
+
+![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-2E7D32?style=flat-square&logo=googlesheets&logoColor=white)
+![Corporate Structuring](https://img.shields.io/badge/Corporate%20Structuring%20(UG%2FGmbH)-455A64?style=flat-square&logo=readthedocs&logoColor=white)
+![Compliance](https://img.shields.io/badge/Compliance--Oriented%20Design-512DA8?style=flat-square&logo=auth0&logoColor=white)
+![Academic Writing](https://img.shields.io/badge/Academic%20Writing%20(LNCS)-008080?style=flat-square&logo=overleaf&logoColor=white)
+
+---
+
+## 🎯 Areas of Interest
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+- 🔗 Blockchain &amp; Distributed Ledger Technology
+- 🏠 Tokenization of Real-World Assets <br/>&nbsp;&nbsp;&nbsp;&nbsp;(real estate, vehicles, securities)
+- 🏢 Enterprise systems &amp; process digitization (SAP HCM)
+- 📜 Smart contracts &amp; on-chain settlement
+
+</td>
+<td width="50%" valign="top">
+
+- 💸 DeFi, market design &amp; financial infrastructure
+- 🧱 Data engineering, analytics &amp; ETL pipelines
+- ⚖️ Legal &amp; regulatory frameworks <br/>&nbsp;&nbsp;&nbsp;&nbsp;(MiCAR, eWpG, corporate &amp; non-profit structures)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🚧 Projects
 
 This profile contains a mix of:
-- Blockchain and smart-contract prototypes  
-- Tokenization and settlement architecture experiments  
-- Data scraping and market analytics tools  
-- SAP- and enterprise-related technical projects  
-- Academic and research-oriented software projects  
 
-Most repositories are prototype-based or research-driven, with a focus on exploring architectural and regulatory trade-offs.
+| 🧩 Domain | Description |
+| --- | --- |
+| ⛓️ **Blockchain** | Smart-contract prototypes |
+| 🏦 **Tokenization** | Settlement &amp; architecture experiments |
+| 📈 **Data** | Scraping &amp; market analytics tools |
+| 🏢 **Enterprise** | SAP- &amp; enterprise-related technical projects |
+| 🎓 **Research** | Academic &amp; research-oriented software |
 
-## Current Focus
+> Most repositories are prototype-based or research-driven, with a focus on exploring **architectural and regulatory trade-offs**.
 
-- Explicit token settlement beyond message-based approaches  
-- Tokenization architectures using NFTs with linked financial instruments  
-- Blockchain choreography and process-aware smart contracts  
-- Bridging enterprise systems and Web3 infrastructure in a compliant way
+---
 
-## Contact
+## 🔭 Current Focus
 
-- GitHub: @raglibol-re
-- LinkedIn: https://linkedin.com/in/rami-e-965683215
-- Email: rami.ezzeddine@proton.me
+- ⚙️ Explicit token settlement beyond message-based approaches
+- 🪙 Tokenization architectures using NFTs with linked financial instruments
+- 🔀 Blockchain choreography &amp; process-aware smart contracts
+- 🌉 Bridging enterprise systems and Web3 infrastructure in a compliant way
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raglibol-re&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=4F9DDE&title_color=4F9DDE" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raglibol-re&layout=compact&hide_border=true&theme=tokyonight&title_color=4F9DDE&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=raglibol-re&hide_border=true&theme=tokyonight&ring=4F9DDE&fire=4F9DDE&currStreakLabel=4F9DDE" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://github.com/raglibol-re">
+  <img src="https://img.shields.io/badge/@raglibol--re-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/rami-e-965683215">
+  <img src="https://img.shields.io/badge/Rami%20Ezzeddine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rami.ezzeddine@proton.me">
+  <img src="https://img.shields.io/badge/rami.ezzeddine@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 <!--
 **raglibol-re/raglibol-re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
