@@ -61,6 +61,39 @@ Business Informatics student at the **Technical University of Munich (TUM)** wit
 
 ---
 
+## 🏆 Hackathon Wins
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🥇 TempoFlow
+**Winner — Futura × Tempo Hackathon 2026**
+
+A pay-per-second content feed where money flows **both ways**: viewers stream sub-cent **pathUSD** to creators while watching, and an autonomous agent earns it back from advertisers — netting ~zero net cost to the viewer.
+
+`React` · `Vite` · `Hono` · `TypeScript` · `Tempo (TIP-20)`
+
+<a href="https://github.com/raglibol-re/TempoFlow">→ Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🥇 Contract Analysis Tool
+**Winner — Munich Legal Hackathon 2025** <!-- TODO: confirm exact event name & placement -->
+
+A legal-tech tool that ingests contracts and flags whether a new draft stays **legally consistent** with the original — automating the first pass of legal review.
+
+`HTML` · `CSS` · `JavaScript` · `LegalTech`
+
+<a href="https://github.com/raglibol-re/munichhackinglegal">→ Repository</a>
+
+</td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -127,19 +160,17 @@ Business Informatics student at the **Technical University of Munich (TUM)** wit
 
 ---
 
-## 🚧 Projects
+## 🚀 Featured Projects
 
-This profile contains a mix of:
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**TempoFlow**](https://github.com/raglibol-re/TempoFlow) 🏆 | Pay-per-second streaming payments with bidirectional money flow, settled on-chain | `TypeScript` `Tempo` `React` |
+| [**chorpiler-escrow-settlement**](https://github.com/raglibol-re/chorpiler-escrow-settlement) | Compiles BPMN&nbsp;2.0 choreographies into smart contracts; adds an `EscrowSettlement` contract enabling **token transfers without messages** | `TypeScript` `Solidity` `Hardhat` |
+| [**tokenized_assetvault**](https://github.com/raglibol-re/tokenized_assetvault) | RWA tokenization dApp — a vault for tokenized assets on Ethereum (Scaffold-ETH&nbsp;2) | `TypeScript` `Solidity` `Next.js` |
+| [**tokenized_marketplace**](https://github.com/raglibol-re/tokenized_marketplace) | Marketplace for issuing &amp; trading tokenized real-world assets | `TypeScript` `Solidity` |
+| [**Contract Analysis Tool**](https://github.com/raglibol-re/munichhackinglegal) 🏆 | LegalTech tool for automated contract-consistency review | `HTML` `CSS` `JS` |
 
-| 🧩 Domain | Description |
-| --- | --- |
-| ⛓️ **Blockchain** | Smart-contract prototypes |
-| 🏦 **Tokenization** | Settlement &amp; architecture experiments |
-| 📈 **Data** | Scraping &amp; market analytics tools |
-| 🏢 **Enterprise** | SAP- &amp; enterprise-related technical projects |
-| 🎓 **Research** | Academic &amp; research-oriented software |
-
-> Most repositories are prototype-based or research-driven, with a focus on exploring **architectural and regulatory trade-offs**.
+> Most repositories are prototype- or research-driven, exploring **architectural and regulatory trade-offs** at the edge of enterprise IT and Web3. The `chorpiler-escrow-settlement` work feeds directly into my current focus below.
 
 ---
 
