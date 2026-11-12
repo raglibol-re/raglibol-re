@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1730,100:4F9DDE&height=200&section=header&text=Rami%20Ezzeddine&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=building%20money%20that%20follows%20the%20rules&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rami Ezzeddine" />
+
 <div align="center">
 
 <!-- Animated typing banner -->
 <a href="https://github.com/raglibol-re">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=4F9DDE&center=true&vCenter=true&width=760&height=60&lines=Rami+Ezzeddine;Founder+of+ancora;Business+Informatics+%40+TUM;Programmable+money+%C2%B7+Agent+finance+%C2%B7+Tokenization;Bridging+Enterprise+IT%2C+Law+and+Web3" alt="Rami Ezzeddine" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=4F9DDE&center=true&vCenter=true&width=760&height=60&lines=Founder+of+ancora;Business+Informatics+%40+TUM;Programmable+money+%C2%B7+Agent+finance+%C2%B7+Tokenization;Bridging+Enterprise+IT%2C+Law+and+Web3" alt="Rami Ezzeddine" />
 </a>
 
 <p>
@@ -27,6 +29,12 @@
   <img src="https://img.shields.io/badge/Munich,%20Germany-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
+<p>
+  <a href="#-hackathon-wins">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%202%C3%97%20Hackathon%20Winner-ETHPrague%20%C2%B7%20Futura%20%C3%97%20Tempo-C9A24D?style=for-the-badge&labelColor=0B1730" alt="2x hackathon winner: ETHPrague 2026 and Futura x Tempo 2026" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -36,6 +44,17 @@
 Business Informatics student at the **Technical University of Munich (TUM)** and founder of **ancora**. I build products around **programmable money**: shared accounts that enforce what an organization's members agreed on, budgets an AI agent cannot exceed, and securities that only move when a transfer is compliant.
 
 I came to this from the finance and legal side, and that still decides what I build: products a treasurer, an issuer or a regulator could actually sign off on.
+
+**One idea, four kinds of account holder:**
+
+```mermaid
+flowchart LR
+    T(["Rules live<br/>in the account"])
+    T --> O["Organizations"] --> A["ancora"]
+    T --> G["AI agents"] --> Q["Quaestor · SecondSource · TempoFlow"]
+    T --> S["Securities and assets"] --> B["Bearer · Asset vault · Chorpiler escrow"]
+    T --> P["People"] --> E["EthTwin · Kontor"]
+```
 
 <table>
   <tr>
@@ -54,7 +73,7 @@ I came to this from the finance and legal side, and that still decides what I bu
     <td>📊</td><td>Several years in <b>finance, accounting &amp; corporate structuring</b></td>
   </tr>
   <tr>
-    <td>🏆</td><td>Winner at <b>ETHPrague 2026</b> and <b>Futura × Tempo 2026</b></td>
+    <td>🏆</td><td><b>Two hackathons won in 2026</b> — <a href="#-hackathon-wins">ETHPrague and Futura × Tempo</a></td>
   </tr>
 </table>
 
@@ -124,13 +143,62 @@ Public preview on the Stellar testnet with test money, working towards mainnet w
 
 ---
 
+## 🏆 Hackathon Wins
+
+<div align="center">
+<em>Two first places in 2026, both for making on-chain payments usable by people who never asked for a wallet.</em>
+</div>
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-ETHPrague%202026-C9A24D?style=for-the-badge&labelColor=0B1730" alt="Winner, ETHPrague 2026" />
+
+### 🎙️ EthTwin
+
+<p align="left">
+A <b>voice-first, AI-powered crypto interface</b> for people who have never used a wallet. You talk, your AI "Twin" acts: every user gets a persona at <code>&lt;name&gt;.ethtwin.eth</code> via <b>ENS</b>, a <b>passkey smart wallet</b> and <b>stealth-address</b> privacy. Built with a team.
+</p>
+
+`Next.js` · `TypeScript` · `viem` · `ENS` · `Account Abstraction` · `Claude`
+
+<a href="https://github.com/danielshx/ethtwin">→ Repository</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-Futura%20%C3%97%20Tempo%202026-C9A24D?style=for-the-badge&labelColor=0B1730" alt="Winner, Futura x Tempo Hackathon 2026" />
+
+### 💸 TempoFlow
+
+<p align="left">
+A content feed paid <b>by the second</b>, where money flows <b>both ways</b>: viewers stream sub-cent stablecoin payments to creators while an autonomous agent earns the amount back from advertisers, so watching costs the viewer close to nothing. Settled on the Tempo testnet.
+</p>
+
+`React` · `Vite` · `Hono` · `TypeScript` · `Tempo (TIP-20)`
+
+<a href="https://github.com/raglibol-re/TempoFlow">→ Repository</a> &nbsp;•&nbsp; <a href="https://tempoflow-blue.vercel.app">→ Live demo</a>
+
+</td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
+
+<div align="center">
+<em>Products and prototypes around the same idea, from agent budgets to tokenized securities.</em>
+</div>
+<br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 Quaestor
+### <img src="https://raw.githubusercontent.com/raglibol-re/Quaestor/main/assets/quaestor-mark.svg" height="26" alt="" /> Quaestor
 **Give your agent a mandate, not a wallet.**
 
 Spending mandates for AI agents. A person funds a tree of agents, caps every branch and can freeze any of it at once; a sub-agent's limits can only be tighter than its parent's. Enforced on-chain, reached by agents over **MCP**.
@@ -142,7 +210,7 @@ Spending mandates for AI agents. A person funds a tree of agents, caps every bra
 </td>
 <td width="50%" valign="top">
 
-### 🔎 SecondSource
+### <img src="https://raw.githubusercontent.com/raglibol-re/SecondSource/main/public/assets/seal.svg" height="26" alt="" /> SecondSource
 **Trust the primary source, not the headline.**
 
 Checks a market-moving headline against **signed primary sources** before a trading agent acts on it, and answers confirmed, unconfirmed or denied with a receipt for every source. Payment settles only once the verdict is delivered.
@@ -150,32 +218,6 @@ Checks a market-moving headline against **signed primary sources** before a trad
 `TypeScript` · `Solidity` · `x402` · `Cardano` · `Base`
 
 <a href="https://github.com/raglibol-re/SecondSource">→ Repository</a> &nbsp;•&nbsp; <a href="https://secondsource-two.vercel.app">→ Live demo</a>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💸 TempoFlow
-**Winner — Futura × Tempo 2026**
-
-A content feed paid by the second, where money flows **both ways**: viewers stream sub-cent stablecoin payments to creators while an autonomous agent earns the amount back from advertisers. Settled on the Tempo testnet.
-
-`React` · `Vite` · `Hono` · `TypeScript` · `Tempo (TIP-20)`
-
-<a href="https://github.com/raglibol-re/TempoFlow">→ Repository</a> &nbsp;•&nbsp; <a href="https://tempoflow-blue.vercel.app">→ Live demo</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ EthTwin
-**Winner — ETHPrague 2026**
-
-A **voice-first, AI-powered crypto interface** for people who have never used a wallet. Each user gets an AI "Twin" at `<name>.ethtwin.eth` via **ENS**, with **passkey smart wallets** and **stealth-address** privacy. Built with a team.
-
-`Next.js` · `TypeScript` · `viem` · `ENS` · `Account Abstraction`
-
-<a href="https://github.com/danielshx/ethtwin">→ Repository</a>
 
 </td>
   </tr>
@@ -250,6 +292,10 @@ Evidence-first founder assessment for venture investors. Scores are shown as **i
 
 </div>
 
+<details>
+<summary><b>Full stack by area</b></summary>
+<br/>
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -299,26 +345,33 @@ Evidence-first founder assessment for venture investors. Scores are shown as **i
 ![Corporate Structuring](https://img.shields.io/badge/Corporate%20Structuring%20(UG%2FGmbH)-455A64?style=flat-square&logo=readthedocs&logoColor=white)
 ![Regulation](https://img.shields.io/badge/MiCAR%20%C2%B7%20eWpG-512DA8?style=flat-square&logoColor=white)
 
+</details>
+
 ---
 
-## 🔭 Focus
+## 🔭 Currently
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
-- ⚓ Programmable accounts for organizations
-- 🤖 Budgets, mandates &amp; payments for AI agents
-- 🔑 Passkeys, account abstraction &amp; on-chain privacy
-- 🏠 Tokenization of real-world assets &amp; securities
+**🔨 Building**
+
+ancora towards mainnet: reproducible releases, monitoring, an external security review and the first pilot organizations.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-- 📜 Explicit on-chain settlement &amp; escrow
-- 📊 Market data, pricing &amp; forecasting
-- 🏢 Bridging enterprise systems and Web3
-- ⚖️ Legal &amp; regulatory frameworks (MiCAR, eWpG)
+**🧪 Exploring**
+
+How far rules can go on-chain: spending mandates for agent trees, approvals over confidential amounts, compliant transfers of tokenized securities.
+
+</td>
+<td width="33%" valign="top">
+
+**🤝 Open to**
+
+Clubs, companies and NGOs that want to pilot ancora, and conversations about agent payments and tokenization under MiCAR and eWpG.
 
 </td>
   </tr>
@@ -345,3 +398,5 @@ Evidence-first founder assessment for venture investors. Scores are shown as **i
 <em>Open to pilots, collaborations and questions about any of the above.</em>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1730,100:4F9DDE&height=110&section=footer" width="100%" alt="" />
