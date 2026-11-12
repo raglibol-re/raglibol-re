@@ -44,14 +44,42 @@ My background is as much finance and law as it is code: several years in account
 
 **What I build, at a glance:**
 
-```mermaid
-flowchart LR
-    R(["Rami"])
-    R --> P["Programmable money"] --> P1["ancora · TempoFlow · EthTwin"]
-    R --> G["AI agents"] --> G1["Quaestor · SecondSource · OpenMerit"]
-    R --> S["Tokenization"] --> S1["Bearer · Asset vault · Chorpiler escrow"]
-    R --> D["Data and vertical software"] --> D1["Pretora · RE/AUTO · Wer erbt?"]
-```
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <h3>💸</h3>
+      <b>Programmable money</b><br/>
+      <sub>Accounts and payments that enforce their own rules</sub><br/><br/>
+      <a href="https://github.com/raglibol-re/ancora">ancora</a><br/>
+      <a href="https://github.com/raglibol-re/TempoFlow">TempoFlow</a><br/>
+      <a href="https://github.com/danielshx/ethtwin">EthTwin</a>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>🤖</h3>
+      <b>AI agents</b><br/>
+      <sub>Agents that spend, verify and assess within limits</sub><br/><br/>
+      <a href="https://github.com/raglibol-re/Quaestor">Quaestor</a><br/>
+      <a href="https://github.com/raglibol-re/SecondSource">SecondSource</a><br/>
+      <a href="https://github.com/raglibol-re/openmerit">OpenMerit</a>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>🏛️</h3>
+      <b>Tokenization</b><br/>
+      <sub>Securities and real-world assets, compliance first</sub><br/><br/>
+      Bearer<br/>
+      <a href="https://github.com/raglibol-re/tokenized_assetvault">Asset vault</a><br/>
+      <a href="https://github.com/raglibol-re/chorpiler-escrow-settlement">Chorpiler escrow</a>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>📈</h3>
+      <b>Data &amp; vertical software</b><br/>
+      <sub>Pricing, dealer tools and legal logic for one market at a time</sub><br/><br/>
+      <a href="https://pretora.vercel.app">Pretora</a><br/>
+      <a href="https://dealer-dashboard-ten.vercel.app">RE/AUTO</a><br/>
+      <a href="https://wer-erbt.vercel.app">Wer erbt?</a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
