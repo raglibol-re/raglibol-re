@@ -28,7 +28,7 @@
 
 <p>
   <a href="#-hackathon-wins">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86%202%C3%97%20Hackathon%20Winner-ETHPrague%20%C2%B7%20Futura%20%C3%97%20Tempo-C9A24D?style=for-the-badge&labelColor=0B1730" alt="2x hackathon winner: ETHPrague 2026 and Futura x Tempo 2026" />
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Multi--Hackathon%20Winner-ETHPrague%20%C2%B7%20Futura%20%C3%97%20Tempo-C9A24D?style=for-the-badge&labelColor=0B1730" alt="Multi-hackathon winner: ETHPrague 2026 and Futura x Tempo 2026" />
   </a>
 </p>
 
