@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1730,100:4F9DDE&height=200&section=header&text=Rami%20Ezzeddine&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=building%20money%20that%20follows%20the%20rules&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rami Ezzeddine" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1730,100:4F9DDE&height=200&section=header&text=Rami%20Ezzeddine&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Web3%20%C2%B7%20AI%20%C2%B7%20Finance%20%E2%80%94%20built%20to%20be%20deployable&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rami Ezzeddine" />
 
 <div align="center">
 
 <!-- Animated typing banner -->
 <a href="https://github.com/raglibol-re">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=4F9DDE&center=true&vCenter=true&width=760&height=60&lines=Founder+of+ancora;Business+Informatics+%40+TUM;Programmable+money+%C2%B7+Agent+finance+%C2%B7+Tokenization;Bridging+Enterprise+IT%2C+Law+and+Web3" alt="Rami Ezzeddine" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=4F9DDE&center=true&vCenter=true&width=760&height=60&lines=Business+Informatics+%40+TUM;Founder+%26+full-stack+builder;Programmable+money+%C2%B7+Agent+finance+%C2%B7+Tokenization;Bridging+Enterprise+IT%2C+Law+and+Web3" alt="Rami Ezzeddine" />
 </a>
 
 <p>
-  <em>Financial software in which the rules live inside the account itself —<br/>
+  <em>Designing systems that are both innovative and practically deployable —<br/>
   at the intersection of enterprise software, decentralized technology, AI, and regulation.</em>
 </p>
 
@@ -22,9 +22,6 @@
   </a>
   <a href="https://x.com/Rami15_">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://ancora-gray.vercel.app">
-    <img src="https://img.shields.io/badge/ancora-0B1730?style=for-the-badge&logo=stellar&logoColor=C9A24D" alt="ancora" />
   </a>
   <img src="https://img.shields.io/badge/Munich,%20Germany-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
@@ -41,25 +38,22 @@
 
 ## 🧭 About Me
 
-Business Informatics student at the **Technical University of Munich (TUM)** and founder of **ancora**. I build products around **programmable money**: shared accounts that enforce what an organization's members agreed on, budgets an AI agent cannot exceed, and securities that only move when a transfer is compliant.
+Business Informatics student at the **Technical University of Munich (TUM)** who builds full-stack products where **finance, Web3 and AI** meet. I pair hands-on engineering with economic reasoning, legal and regulatory awareness, and enterprise IT experience.
 
-I came to this from the finance and legal side, and that still decides what I build: products a treasurer, an issuer or a regulator could actually sign off on.
+My background is as much finance and law as it is code: several years in accounting, corporate structuring and SAP consulting alongside the engineering. That decides how I build. I want things a treasurer, a car dealer or a regulator could actually use and sign off on, not just a demo.
 
-**One idea, four kinds of account holder:**
+**What I build, at a glance:**
 
 ```mermaid
 flowchart LR
-    T(["Rules live<br/>in the account"])
-    T --> O["Organizations"] --> A["ancora"]
-    T --> G["AI agents"] --> Q["Quaestor · SecondSource · TempoFlow"]
-    T --> S["Securities and assets"] --> B["Bearer · Asset vault · Chorpiler escrow"]
-    T --> P["People"] --> E["EthTwin · Kontor"]
+    R(["Rami"])
+    R --> P["Programmable money"] --> P1["ancora · TempoFlow · EthTwin"]
+    R --> G["AI agents"] --> G1["Quaestor · SecondSource · OpenMerit"]
+    R --> S["Tokenization"] --> S1["Bearer · Asset vault · Chorpiler escrow"]
+    R --> D["Data and vertical software"] --> D1["Pretora · RE/AUTO · Wer erbt?"]
 ```
 
 <table>
-  <tr>
-    <td>⚓</td><td><b>Founder of ancora</b> — the programmable business account for organizations</td>
-  </tr>
   <tr>
     <td>🎓</td><td>B.Sc. <b>Business Informatics</b> (Wirtschaftsinformatik), TU&nbsp;Munich</td>
   </tr>
@@ -73,73 +67,46 @@ flowchart LR
     <td>📊</td><td>Several years in <b>finance, accounting &amp; corporate structuring</b></td>
   </tr>
   <tr>
+    <td>🚀</td><td><b>Founder and builder</b> — products and prototypes across payments, AI agents, tokenization and automotive data</td>
+  </tr>
+  <tr>
     <td>🏆</td><td><b>Two hackathons won in 2026</b> — <a href="#-hackathon-wins">ETHPrague and Futura × Tempo</a></td>
   </tr>
 </table>
 
 ---
 
-## ⚓ Current Project — ancora
+## ⚓ Current Project
 
-<div align="center">
+<table>
+  <tr>
+    <td width="42%" valign="top">
 
 <a href="https://ancora-gray.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raglibol-re/ancora/main/app/public/brand/lockup-dark.svg" />
-    <img src="https://raw.githubusercontent.com/raglibol-re/ancora/main/app/public/brand/lockup-light.svg" width="228" height="60" alt="ancora" />
+    <img src="https://raw.githubusercontent.com/raglibol-re/ancora/main/app/public/brand/lockup-light.svg" width="152" height="40" alt="ancora" />
   </picture>
 </a>
 
-### The business account your organization controls.
+**The business account your organization controls.**
 
-A programmable stablecoin account for clubs, companies, NGOs and teams.<br/>
-Feels like a modern banking app; runs on **Stellar** in the background.
+A programmable stablecoin account for clubs, companies, NGOs and teams: one passkey per person, one contract per organization, and rules the account enforces itself. Open source, in public preview on the **Stellar** testnet.
 
-<p>
-  <a href="https://ancora-gray.vercel.app">
-    <img src="https://img.shields.io/badge/Try%20the%20preview-0B1730?style=for-the-badge&logo=vercel&logoColor=white" alt="Try the preview" />
-  </a>
-  <a href="https://github.com/raglibol-re/ancora">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-  <a href="https://github.com/raglibol-re/ancora/blob/main/docs/ROADMAP.md">
-    <img src="https://img.shields.io/badge/Roadmap-C9A24D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Roadmap" />
-  </a>
-</p>
+`TypeScript` · `Rust` · `Soroban` · `Passkeys`
+
+<a href="https://ancora-gray.vercel.app">→ Preview</a> &nbsp;•&nbsp; <a href="https://github.com/raglibol-re/ancora">→ Repository</a> &nbsp;•&nbsp; <a href="https://github.com/raglibol-re/ancora/blob/main/docs/ROADMAP.md">→ Roadmap</a>
+
+</td>
+<td width="58%" valign="middle">
 
 <a href="https://ancora-gray.vercel.app">
-  <img src="https://raw.githubusercontent.com/raglibol-re/ancora/main/docs/media/tour.gif" width="820" alt="A 30-second tour of ancora: an organization's overview, sending money with a live rule preview, approving a request with a passkey, and editing the rules" />
+  <img src="https://raw.githubusercontent.com/raglibol-re/ancora/main/docs/media/tour.gif" width="100%" alt="A 30-second tour of ancora: an organization's overview, sending money with a live rule preview and approving a request with a passkey" />
 </a>
-
-</div>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-**🔑 One passkey per person**
-
-Face ID, fingerprint or device PIN creates your account. No seed phrase, no wallet setup.
-
-</td>
-<td width="33%" valign="top">
-
-**📜 One contract per organization**
-
-Budgets, spending limits and approval rules are set by the members and enforced by the account itself.
-
-</td>
-<td width="33%" valign="top">
-
-**🌍 Open source, built in the open**
-
-Public preview on the Stellar testnet with test money, working towards mainnet with pilot organizations.
 
 </td>
   </tr>
 </table>
-
-`TypeScript` · `Rust` · `Soroban` · `Stellar` · `Passkey smart accounts` · `Next.js`
 
 ---
 
@@ -357,7 +324,7 @@ Evidence-first founder assessment for venture investors. Scores are shown as **i
 
 **🔨 Building**
 
-ancora towards mainnet: reproducible releases, monitoring, an external security review and the first pilot organizations.
+ancora on its way from testnet to mainnet, Quaestor's mandate model across more chains, and the dealer and pricing tools behind RE/AUTO and Pretora.
 
 </td>
 <td width="33%" valign="top">
@@ -371,7 +338,7 @@ How far rules can go on-chain: spending mandates for agent trees, approvals over
 
 **🤝 Open to**
 
-Clubs, companies and NGOs that want to pilot ancora, and conversations about agent payments and tokenization under MiCAR and eWpG.
+Pilot users, collaborations and conversations about agent payments, organization accounts and tokenization under MiCAR and eWpG.
 
 </td>
   </tr>
